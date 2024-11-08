@@ -195,7 +195,7 @@
       opacity: .56;
   }
   .landing {
-      background-image: url('Files/background coffee.jpeg');
+      background-image: url('Files/fhsbg.png');
       background-size:cover; /* Adjusts the image to cover the entire section */
       background-position: center; /* Centers the image */
       background-repeat: no-repeat; /* Prevents the image from repeating */
@@ -1450,3 +1450,7 @@
       max-width: 960px; /* Optional: sets a max width */
       border: none;
   }
+
+  
+  /* anitmation */
+  
